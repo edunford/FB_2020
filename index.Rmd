@@ -1,0 +1,247 @@
+---
+title: <br>Dark Side of Diversity
+subtitle: Membership Diversity and Tactical Innovation<br>within Violent Non-State Organizations
+author: .center[<br><br>**Eric Dunford** <br> ]
+
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      beforeInit: "macros.js"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(message = F,error = F,comment = F)
+require(kableExtra)
+require(tidyverse)
+```
+
+.center[
+### Boko Haram
+<img src = "Figures/Boko-Haram.jpg", width=50%> ]
+
+--
+
+.center[
+### Abu Sayyaf
+<img src = "Figures/abu-sayyaf.jpg", width=50%> ]
+
+
+---
+
+![:space 30]
+
+## Why are some violent non-state actors ![:text_color steelblue](**tactical innovators**) while others rarely change their tactical behavior?
+
+---
+
+## Tactical Innovation
+
+![:space 10]
+
+![:center_img 60](Figures/tactical_innovation.png)
+
+
+---
+
+![:space 5]
+
+![:center_img 100](Figures/literature.png)
+
+---
+
+![:center_img 100](Figures/leadership_figs/leadership1.png)
+
+---
+
+![:center_img 100](Figures/leadership_figs/leadership2.png)
+
+---
+
+![:space 10]
+
+![:center_img 80](Figures/leadership_figs/leadership3.png)
+
+---
+
+![:center_img 100](Figures/leadership_figs/leadership4.png)
+
+---
+
+![:center_img 100](Figures/leadership_figs/leadership5.png)
+
+---
+
+### Knowledge diversity
+
+![:center_img 60](Figures/fig_problem-solving.png)
+
+
+---
+
+### Garbage Can Model Simulation 
+
+![:space 12]
+
+![:center_img 100](Figures/GCM_illustration.png)
+
+---
+
+## Hypothesis 
+
+![:space 15]
+
+### Violent Non-State Actors with ![:text_color steelblue](**higher levels of knowledge diversity**) (_those with more heterogeneous members_) will tactically ![:text_color steelblue](**innovate more often**) than organizations with lower levels of knowledge diverseity (_those with more homogeneous members_)
+
+---
+
+### Measuring incremental tactical innovations
+
+![:space 15]
+
+![:center_img 100](Figures/meas_tactics/measuring_tactical_experimentation1.png)
+
+---
+
+### Measuring incremental tactical innovations
+
+![:space 15]
+
+![:center_img 100](Figures/meas_tactics/measuring_tactical_experimentation2.png)
+
+---
+
+### Measuring incremental tactical innovations
+
+![:center_img 90](Figures/figure_target_weapon_configurations.png)
+
+---
+
+### Measuring incremental tactical innovations
+
+![:space 12]
+
+![:center_img 100](Figures/figure_tactical_innovations.png)
+
+---
+
+### Empirical Strategy
+
+![:center_img 90](Figures/dag/dag1.png)
+
+---
+
+### Empirical Strategy
+
+![:center_img 100](Figures/dag/dag2.png)
+
+---
+
+
+### Socially-Relevant Ethnic Exposures
+
+![:center_img 90](Figures/exposure-example-figure.png)
+
+<!-- --- -->
+
+<!-- ### Socially-Relevant Ethnic Exposures -->
+
+<!-- ![:center_img 75](Figures/bk-exposure-example.png) -->
+
+---
+
+### Socially-Relevant Ethnic Exposures
+
+![:space 5]
+
+![:center_img 100](Figures/figure_novel_exposures.png)
+
+---
+
+### Data
+
+![:space 15]
+
+![:center_img 100](Figures/data_summary.png)
+
+---
+
+### Results
+
+
+![:center_img 100](Figures/results1.png)
+
+
+---
+
+### Results
+
+![:space 10]
+
+![:center_img 100](Figures/figure_matched_model_CLATE.png)
+
+---
+
+### Confounding Scenarios
+
+![:space 10]
+
+![:center_img 100](Figures/dag/alt_dag_scenarios.png)
+
+---
+
+### Confounding Scenarios
+
+
+![:center_img 90](Figures/results2.png)
+
+---
+
+### Robust to Missingness
+
+![:space 5]
+
+![:center_img 90](Figures/figure_imputed_estimate_sensitivy.png)
+
+---
+
+### Back to the Cases
+
+
+.center[
+#### Boko Haram &rarr; Across socio-economic and ethnic strata
+<img src = "Figures/Boko-Haram.jpg", width=40%> ]
+
+
+
+.center[
+#### Abu Sayyaf &rarr; Kinship Networks
+<img src = "Figures/abu-sayyaf.jpg", width=40%> ]
+
+
+---
+
+<br>
+.center[
+# Thanks!
+<br>
+.center[
+### Eric Dunford 
+_McCourt School of Public Policy_<br>
+**_Georgetown University_**<br>
+eric.dunford@georgetown.edu<br>
+[ericdunford.com](http://ericdunford.com/)
+
+& 
+
+Coming soon to CDS!
+]
+]
+
+
+
+

@@ -1,0 +1,1 @@
+Slides for FB talk (Oct. 2020) on Membership Diversity and Tacitical Innovation
