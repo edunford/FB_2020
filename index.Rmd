@@ -95,7 +95,7 @@ require(tidyverse)
 
 ![:space 15]
 
-### Violent Non-State Actors with ![:text_color steelblue](**higher levels of knowledge diversity**) (_those with more heterogeneous members_) will tactically ![:text_color steelblue](**innovate more often**) than organizations with lower levels of knowledge diverseity (_those with more homogeneous members_)
+### Violent Non-State Actors with ![:text_color steelblue](**higher levels of knowledge diversity**) (_those with more heterogeneous members_) will tactically ![:text_color steelblue](**innovate more often**) than organizations with lower levels of knowledge diversity (_those with more homogeneous members_)
 
 ---
 
